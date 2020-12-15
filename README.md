@@ -1,3 +1,4 @@
+#### HW4
 TASK DESCRIPTION
 
 Implement REST endpoints for methods adding/editing users and getting list of users 
@@ -17,5 +18,6 @@ request that is supposed to return User object or a list of User objects.
 
 To use UserRestTemplateTest for testing the cofiguration:
 1. Use data.sql for create some users
-2 Invoke the testing
+2. Invoke the testing 
+
 
